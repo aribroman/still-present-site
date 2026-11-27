@@ -1,0 +1,38 @@
+name: Unpack Import
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract archive and commit files
+        run: |
+          cat _import/part_* > /tmp/bundle.tar.gz
+          tar -xzf /tmp/bundle.tar.gz
+          rm -rf _import /tmp/bundle.tar.gz
+          git config user.name "aribroman"
+          git config user.email "aribroman@users.noreply.github.com"
+          git add -A
+          git commit -m "Publish Still Present v3.6.20 public web app, privacy/delete pages, and Recovery Hub data"
+          git push
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+  deploy:
+    needs: unpack
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
