@@ -1,0 +1,823 @@
+{
+"https://www.eventbrite.ca/e/lululemon-miles-of-gratitude-community-run-yoga-veteran-celebration-tickets-2003672255654": {
+"none": true,
+"evidence_url": "https://www.eventbrite.ca/e/lululemon-miles-of-gratitude-community-run-yoga-veteran-celebration-tickets-2003672255654",
+"checked_at": "2026-11-02T19:40:25Z"
+},
+"https://www.daniapointe.com/events": {
+"error": "<HTTPError 403: 'Forbidden'>",
+"checked_at": "2026-11-27T16:34:43Z"
+},
+"https://events.miamibeachfl.gov/event/miami-art-week-the-paddle-in-the-park-classic/": {
+"none": true,
+"evidence_url": "https://events.miamibeachfl.gov/event/miami-art-week-the-paddle-in-the-park-classic/",
+"checked_at": "2026-11-27T16:33:34Z"
+},
+"https://www.eventbrite.com/e/2027-fru-family-picnic-tickets-2003626818751": {
+"quote": "FRU Family Picnic is a fun-filled evening of indoor sober fellowship.",
+"where": "event description",
+"evidence_url": "https://www.eventbrite.com/e/2027-fru-family-picnic-tickets-2003626818751",
+"match": "sober",
+"org": false,
+"checked_at": "2026-11-02T19:40:25Z"
+},
+"https://www.eventbrite.com/e/5-vizcaya-village-wellness-class-yoga-breathwork-sound-healing-tickets-1979764852969": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/5-vizcaya-village-wellness-class-yoga-breathwork-sound-healing-tickets-1979764852969",
+"checked_at": "2026-11-02T19:40:25Z"
+},
+"https://www.eventbrite.com/e/5-sunday-yoga-at-the-vizcaya-village-farmers-market-tickets-738838213987?aff=web&occurrence=2026-11-08": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/5-vizcaya-village-wellness-class-yoga-breathwork-sound-healing-tickets-738838213987?occurrence=2026-11-08&aff=web",
+"checked_at": "2026-11-02T19:40:25Z"
+},
+"https://www.eventbrite.com/e/activewear-swap-shop-at-village-yoga-in-tequesta-florida-tickets-2003668431215": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/activewear-swap-shop-at-village-yoga-in-tequesta-florida-tickets-2003668431215",
+"checked_at": "2026-11-27T16:33:33Z"
+},
+"https://www.eventbrite.com/e/actv-studio-irl-vuori-brickell-x-fuerza-pilates-tickets-2003686458134": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/actv-studio-irl-vuori-brickell-x-fuerza-pilates-tickets-2003686458134",
+"checked_at": "2026-11-02T19:40:25Z"
+},
+"https://runsignup.com/Race/FL/BocaRaton/LevisJCCTurkeyTrot5k": {
+"none": true,
+"evidence_url": "https://runsignup.com/Race/FL/BocaRaton/LevisJCCTurkeyTrot5k",
+"checked_at": "2026-11-09T22:01:56Z"
+},
+"https://www.eventbrite.com/e/adventure-awaits-hike-through-the-habitats-juno-dunes-registration-1996816283256": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/adventure-awaits-hike-through-the-habitats-juno-dunes-registration-1996816283256",
+"checked_at": "2026-11-09T22:01:56Z"
+},
+"https://www.eventbrite.com/e/awaken-a-breathwork-rebirthing-immersion-tickets-2004168523003": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/awaken-a-breathwork-rebirthing-immersion-tickets-2004168523003",
+"checked_at": "2026-11-27T16:33:34Z"
+},
+"https://runsignup.com/Race/FL/FortLauderdale/9thAnnualFortLauderdaleTurkeyTrot": {
+"none": true,
+"evidence_url": "https://runsignup.com/Race/FL/FortLauderdale/9thAnnualFortLauderdaleTurkeyTrot",
+"checked_at": "2026-11-09T22:01:56Z"
+},
+"https://www.eventbrite.com/e/awaken-an-epic-poolside-sound-bath-under-the-stars-tickets-2003510812774": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/awaken-an-epic-poolside-sound-bath-under-the-stars-tickets-2003510812774",
+"checked_at": "2026-11-02T19:40:25Z"
+},
+"https://runsignup.com/Race/FL/Miami/givemiami5k?occurrence=2026-11-15": {
+"none": true,
+"evidence_url": "https://runsignup.com/Race/FL/Miami/givemiami5k?occurrence=2026-11-15",
+"checked_at": "2026-11-09T22:01:56Z"
+},
+"https://www.eventbrite.com/e/beach-yoga-sound-bath-moon-meditation-ocean-healing-fort-lauderdale-tickets-2002717268261": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/beach-yoga-sound-bath-moon-meditation-ocean-healing-fort-lauderdale-tickets-2002717268261",
+"checked_at": "2026-11-02T19:40:25Z"
+},
+"https://www.eventbrite.com/e/beginner-aerial-yoga-class-in-miami-beach-aerial-hammock-yoga-tickets-1995326655740": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/beginner-aerial-yoga-class-in-miami-beach-aerial-hammock-yoga-tickets-1995326655740",
+"checked_at": "2026-11-02T19:40:25Z"
+},
+"https://www.eventbrite.com/e/cacao-ritual-twin-hearts-meditation-tickets-2001429801413": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/cacao-ritual-twin-hearts-meditation-tickets-2001429801413",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/centered-not-stressed-your-pre-holiday-yoga-mental-wellness-recharge-tickets-2003388261219": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/centered-not-stressed-your-pre-holiday-yoga-mental-wellness-recharge-tickets-2003388261219",
+"checked_at": "2026-11-09T22:01:57Z"
+},
+"https://www.eventbrite.com/e/counter-current-run-club-november-tickets-2004161329487": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/counter-current-run-club-november-tickets-2004161329487",
+"checked_at": "2026-11-09T22:01:56Z"
+},
+"https://www.eventbrite.com/e/chair-yoga-with-mike-mitchell-tickets-2003668145360": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/chair-yoga-with-mike-mitchell-tickets-2003668145360",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/donation-based-vinyasa-yoga-tickets-1985646555299": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/donation-based-vinyasa-yoga-tickets-1985646555299",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/feel-good-fridays-sunset-yoga-flow-sound-healing-tickets-2002810565315": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/feel-good-fridays-sunset-yoga-flow-sound-healing-tickets-2002810565315",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/floating-sound-bath-at-four-seasons-miami-tickets-2003512383472": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/floating-sound-bath-at-four-seasons-miami-tickets-2003512383472",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/floating-sound-bath-with-kanekshun-tickets-2003519882903": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/floating-sound-bath-with-kanekshun-tickets-2003519882903",
+"checked_at": "2026-11-11T22:03:04Z"
+},
+"https://www.eventbrite.com/e/floating-sound-bath-with-kanekshun-tickets-2004018119141": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/floating-sound-bath-with-kanekshun-tickets-2004018119141",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/flow-with-kim-yoga-tickets-2004031059847": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/flow-with-kim-yoga-tickets-2004031059847",
+"checked_at": "2026-11-09T22:01:56Z"
+},
+"https://www.eventbrite.com/e/food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470194746": {
+"quote": "Food Addicts In Recovery Anonymous(FA)- IN PERSON MEETING",
+"where": "event name",
+"evidence_url": "https://www.eventbrite.com/e/food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470194746",
+"match": "Food Addicts In Recovery Anonymous",
+"org": true,
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983476041233": {
+"quote": "Food Addicts In Recovery Anonymous(FA)- IN PERSON MEETING",
+"where": "event name",
+"evidence_url": "https://www.eventbrite.com/e/food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983476041233",
+"match": "Food Addicts In Recovery Anonymous",
+"org": true,
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470445496": {
+"quote": "Food Addicts In Recovery Anonymous(FA)- IN PERSON MEETING",
+"where": "event name",
+"evidence_url": "https://www.eventbrite.com/e/food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470445496",
+"match": "Food Addicts In Recovery Anonymous",
+"org": true,
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/free-community-yoga-class-kirtan-in-the-grove-tickets-1986925565854": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-community-yoga-class-kirtan-in-the-grove-tickets-1986925565854",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/free-full-moon-ceremony-yoga-meditation-sound-tickets-2004029962565": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-full-moon-ceremony-yoga-meditation-sound-tickets-2004029962565",
+"checked_at": "2026-11-09T22:01:57Z"
+},
+"https://www.eventbrite.com/e/free-yoga-class-kirtan-at-miami-iskcon-temple-tickets-1988860821255": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-yoga-class-kirtan-at-miami-iskcon-temple-tickets-1988860821255",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/full-moon-yoga-at-the-seagate-beach-club-tickets-1998371230144": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/full-moon-yoga-at-the-seagate-beach-club-tickets-1998371230144",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/full-moon-yoga-sound-healing-potluck-112426-invite-share-tickets-2003713163009": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/full-moon-yoga-sound-healing-potluck-112426-invite-share-tickets-2003713163009",
+"checked_at": "2026-11-09T22:01:57Z"
+},
+"https://www.eventbrite.com/e/guided-meditation-tickets-1996167340250": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/guided-meditation-tickets-1996167340250",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/full-moon-yoga-with-cacao-and-sound-healing-tickets-1987854090095": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/full-moon-yoga-with-cacao-and-sound-healing-tickets-1987854090095",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/immersive-breathwork-tickets-2003821292427": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/immersive-breathwork-tickets-2003821292427",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/kundalini-yoga-for-prosperity-with-amrita-tickets-2002238348800": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/kundalini-yoga-for-prosperity-with-amrita-tickets-2002238348800",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/mindful-broward-community-of-practice-mbrc-meet-up-registration-1986045853611": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/mindful-broward-community-of-practice-mbrc-meet-up-registration-1986045853611",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/monday-reset-breathwork-sound-bath-tickets-2002920713772": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/monday-reset-breathwork-sound-bath-tickets-2002920713772",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/new-moon-beach-mat-pilates-yoga-meditation-840-miami-tickets-2003857577958": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/new-moon-beach-mat-pilates-yoga-meditation-840-miami-tickets-2003857577958",
+"checked_at": "2026-11-09T22:01:57Z"
+},
+"https://www.eventbrite.com/e/pbc-food-bank-volunteer-project-1282026-tickets-1986645058850": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/pbc-food-bank-volunteer-project-1282026-tickets-1986645058850",
+"checked_at": "2026-11-09T22:01:57Z"
+},
+"https://www.eventbrite.com/e/pilates-mat-on-the-intracoastal-tickets-1984672154841": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/pilates-mat-on-the-intracoastal-tickets-1984672154841",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/pilates-matcha-fs8-edition-at-the-fort-tickets-2002878545646": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/pilates-matcha-fs8-edition-at-the-fort-tickets-2002878545646",
+"checked_at": "2026-11-10T10:02:33Z"
+},
+"https://www.eventbrite.com/e/puppies-pilates-tickets-2003821213190": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/puppies-pilates-tickets-2003821213190",
+"checked_at": "2026-11-09T22:01:57Z"
+},
+"https://www.eventbrite.com/e/puppy-yoga-special-event-hatha-flow-crunch-fitness-tickets-2002736698377": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/puppy-yoga-special-event-hatha-flow-crunch-fitness-tickets-2002736698377",
+"checked_at": "2026-11-09T22:01:58Z"
+},
+"https://www.eventbrite.com/e/pups-yoga-on-the-rooftop-with-village-yoga-x-furry-friends-tickets-1993365363462": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/pups-yoga-on-the-rooftop-with-village-yoga-x-furry-friends-tickets-1993365363462",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/sound-stillness-donation-based-sound-bath-meditation-yin-yogasage-registration-2003047727674": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sound-stillness-donation-based-sound-bath-meditation-yin-yogasage-registration-2003047727674",
+"checked_at": "2026-11-09T22:01:58Z"
+},
+"https://www.eventbrite.com/e/sunrise-on-rollerblades-oceanfront-adventure-in-delray-beach-tickets-2000469464018": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-on-rollerblades-oceanfront-adventure-in-delray-beach-tickets-2000469464018",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/sunrise-beach-yoga-at-the-seagate-beach-club-tickets-1988504190563": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-beach-yoga-at-the-seagate-beach-club-tickets-1988504190563",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/sunset-meditation-at-the-rooftop-of-unframed-tickets-2004127712939": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunset-meditation-at-the-rooftop-of-unframed-tickets-2004127712939",
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/sweat-strength-and-sobriety-tickets-1998892752030": {
+"quote": "Come get a great sober workout!",
+"where": "event description",
+"evidence_url": "https://www.eventbrite.com/e/sweat-strength-and-sobriety-tickets-1998892752030",
+"match": "sober",
+"org": false,
+"checked_at": "2026-11-02T19:40:26Z"
+},
+"https://www.eventbrite.com/e/the-2nd-annual-monarch-open-pickleball-purpose-tickets-2001425622915": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/the-2nd-annual-monarch-open-pickleball-purpose-tickets-2001425622915",
+"checked_at": "2026-11-02T19:40:27Z"
+},
+"https://www.eventbrite.com/e/uptown-5k-on-the-runway-2026-tickets-1982363123466": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/uptown-5k-on-the-runway-2026-tickets-1982363123466",
+"checked_at": "2026-11-02T19:40:27Z"
+},
+"https://www.eventbrite.com/e/thursday-food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470715303": {
+"quote": "Thursday Food Addicts In Recovery Anonymous(FA)- IN PERSON MEETING",
+"where": "event name",
+"evidence_url": "https://www.eventbrite.com/e/thursday-food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470715303",
+"match": "Food Addicts In Recovery Anonymous",
+"org": true,
+"checked_at": "2026-11-02T19:40:27Z"
+},
+"https://www.eventbrite.com/e/volunteer-workday-at-the-jupiter-inlet-lighthouse-outstanding-natural-area-tickets-1983693316108": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/volunteer-workday-at-the-jupiter-inlet-lighthouse-outstanding-natural-area-tickets-1983693316108",
+"checked_at": "2026-11-11T10:02:17Z"
+},
+"https://www.eventbrite.com/e/wednesday-mornings-outdoor-yoga-miami-beach-belle-isle-park-tickets-1986357874875": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/wednesday-mornings-outdoor-yoga-miami-beach-belle-isle-park-tickets-1986357874875",
+"checked_at": "2026-11-02T19:40:27Z"
+},
+"https://www.eventbrite.com/e/weekly-chair-yoga-for-balance-mobility-tickets-2003890011969": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/weekly-chair-yoga-for-balance-mobility-tickets-2003890011969",
+"checked_at": "2026-11-02T19:40:27Z"
+},
+"https://www.eventbrite.com/e/yoga-at-the-jupiter-lighthouse-tickets-1977723682774": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-at-the-jupiter-lighthouse-tickets-1977723682774",
+"checked_at": "2026-11-02T19:40:27Z"
+},
+"https://www.eventbrite.com/e/yoga-kirtan-community-night-in-coconut-grove-tickets-1987475341247": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-kirtan-community-night-in-coconut-grove-tickets-1987475341247",
+"checked_at": "2026-11-02T19:40:27Z"
+},
+"https://www.eventbrite.com/e/yoga-under-the-stars-on-the-beach-tickets-1999628677202": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-under-the-stars-on-the-beach-tickets-1999628677202",
+"checked_at": "2026-11-09T22:01:58Z"
+},
+"https://www.eventbrite.com/e/mat-minis-jetset-pilates-x-chick-fil-a-tickets-2003471427973": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/mat-minis-jetset-pilates-x-chick-fil-a-tickets-2003471427973",
+"checked_at": "2026-11-02T19:40:27Z"
+},
+"https://www.hallandalebeachfl.gov/calendar.aspx?EID=8160": {
+"none": true,
+"evidence_url": "https://www.hallandalebeachfl.gov/calendar.aspx?EID=8160",
+"checked_at": "2026-11-09T22:01:58Z"
+},
+"https://www.hallandalebeachfl.gov/calendar.aspx?EID=8162": {
+"none": true,
+"evidence_url": "https://www.hallandalebeachfl.gov/calendar.aspx?EID=8162",
+"checked_at": "2026-11-12T10:02:16Z"
+},
+"https://www.hallandalebeachfl.gov/calendar.aspx?EID=8163": {
+"none": true,
+"evidence_url": "https://www.hallandalebeachfl.gov/calendar.aspx?EID=8163",
+"checked_at": "2026-11-09T22:01:58Z"
+},
+"https://www.northmiamifl.gov/calendar.aspx?EID=5949": {
+"none": true,
+"evidence_url": "https://www.northmiamifl.gov/calendar.aspx?EID=5949",
+"checked_at": "2026-11-09T22:01:58Z"
+},
+"https://www.hollywoodfl.org/calendar.aspx?EID=12117": {
+"none": true,
+"evidence_url": "https://www.hollywoodfl.org/calendar.aspx?EID=12117",
+"checked_at": "2026-11-09T22:01:59Z"
+},
+"https://www.frostscience.org/event/muve-volunteer-workday-nov/": {
+"none": true,
+"evidence_url": "https://www.frostscience.org/event/muve-volunteer-workday-nov/",
+"checked_at": "2026-11-09T22:01:57Z"
+},
+"https://www.eventbrite.com/e/fort-lauderdale-new-moon-beach-yoga-sound-healing-meditation-tickets-2002717268261": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/fort-lauderdale-new-moon-beach-yoga-sound-healing-meditation-tickets-2002717268261",
+"checked_at": "2026-11-02T22:04:44Z"
+},
+"https://www.eventbrite.com/e/floating-sound-bath-with-kanekshun-november-tickets-2003721066649": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/floating-sound-bath-with-kanekshun-november-tickets-2003721066649",
+"checked_at": "2026-11-10T10:02:32Z"
+},
+"https://www.eventbrite.com/e/chair-yoga-with-mike-mitchell-tickets-2003680167318": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/chair-yoga-with-mike-mitchell-tickets-2003680167318",
+"checked_at": "2026-11-11T10:02:18Z"
+},
+"https://www.eventbrite.com/e/food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983476042236": {
+"quote": "Food Addicts In Recovery Anonymous(FA)- IN PERSON MEETING",
+"where": "event name",
+"evidence_url": "https://www.eventbrite.com/e/food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983476042236",
+"match": "Food Addicts In Recovery Anonymous",
+"org": true,
+"checked_at": "2026-11-10T22:02:45Z"
+},
+"https://www.eventbrite.com/e/monday-reset-breathwork-sound-bath-tickets-1997873595706": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/monday-reset-breathwork-sound-bath-tickets-1997873595706",
+"checked_at": "2026-11-03T17:39:34Z"
+},
+"https://www.eventbrite.com/e/beginner-aerial-yoga-class-in-miami-beach-aerial-hammock-yoga-tickets-1995326656743": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/beginner-aerial-yoga-class-in-miami-beach-aerial-hammock-yoga-tickets-1995326656743",
+"checked_at": "2026-11-03T17:39:35Z"
+},
+"https://www.eventbrite.com/e/xco-dance-fitness-shake-it-out-with-betsy-dopico-tickets-2003782382045": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/xco-dance-fitness-shake-it-out-with-betsy-dopico-tickets-2003782382045",
+"checked_at": "2026-11-03T22:02:23Z"
+},
+"https://www.eventbrite.com/e/mat-pilates-the-gratitude-edit-with-alex-cohen-tickets-2003780194502": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/mat-pilates-the-gratitude-edit-with-alex-cohen-tickets-2003780194502",
+"checked_at": "2026-11-10T22:02:45Z"
+},
+"https://www.eventbrite.com/e/pilates-mat-on-the-intracoastal-tickets-1984672155844": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/pilates-mat-on-the-intracoastal-tickets-1984672155844",
+"checked_at": "2026-11-03T22:02:23Z"
+},
+"https://www.eventbrite.com/e/sunrise-yoga-gratitude-in-motion-with-jacqueline-fiol-tickets-2003774951821": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-yoga-gratitude-in-motion-with-jacqueline-fiol-tickets-2003774951821",
+"checked_at": "2026-11-03T22:02:23Z"
+},
+"https://www.eventbrite.com/e/ceremonial-sound-bath-meditation-tickets-2002304729346": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/ceremonial-sound-bath-meditation-tickets-2002304729346",
+"checked_at": "2026-11-03T22:02:23Z"
+},
+"https://www.eventbrite.com/e/sunset-yoga-tickets-2003966886904": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunset-yoga-tickets-2003966886904",
+"checked_at": "2026-11-04T10:03:28Z"
+},
+"https://www.eventbrite.com/e/kundalini-yoga-for-prosperity-with-amrita-tickets-2002238349803": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/kundalini-yoga-for-prosperity-with-amrita-tickets-2002238349803",
+"checked_at": "2026-11-04T10:03:28Z"
+},
+"https://www.eventbrite.com/e/rooted-in-gratitude-a-sound-bath-breathwork-journey-tickets-2003569350863": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/rooted-in-gratitude-a-sound-bath-breathwork-journey-tickets-2003569350863",
+"checked_at": "2026-11-04T10:03:28Z"
+},
+"https://www.eventbrite.com/e/padel-x-club-pilates-tickets-2003977574872": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/padel-x-club-pilates-tickets-2003977574872",
+"checked_at": "2026-11-04T22:02:23Z"
+},
+"https://www.eventbrite.ca/e/miles-of-gratitude-community-run-yoga-veteran-celebration-tickets-2003672255654": {
+"none": true,
+"evidence_url": "https://www.eventbrite.ca/e/miles-of-gratitude-community-run-yoga-veteran-celebration-tickets-2003672255654",
+"checked_at": "2026-11-11T22:03:04Z"
+},
+"https://www.eventbrite.com/e/wednesday-mornings-outdoor-yoga-miami-beach-belle-isle-park-tickets-1986357875878": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/wednesday-mornings-outdoor-yoga-miami-beach-belle-isle-park-tickets-1986357875878",
+"checked_at": "2026-11-04T22:02:23Z"
+},
+"https://www.eventbrite.com/e/sunrise-pilates-in-pompano-beach-tickets-2004235636742": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-pilates-in-pompano-beach-tickets-2004235636742",
+"checked_at": "2026-11-05T10:02:04Z"
+},
+"https://www.eventbrite.com/e/yoga-kirtan-community-night-in-coconut-grove-tickets-1987475342250": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-kirtan-community-night-in-coconut-grove-tickets-1987475342250",
+"checked_at": "2026-11-05T10:02:04Z"
+},
+"https://www.eventbrite.com/e/sound-bath-tickets-2003241084008": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sound-bath-tickets-2003241084008",
+"checked_at": "2026-11-05T10:02:04Z"
+},
+"https://www.eventbrite.com/e/free-yoga-class-kirtan-at-miami-iskcon-temple-tickets-1988860822258": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-yoga-class-kirtan-at-miami-iskcon-temple-tickets-1988860822258",
+"checked_at": "2026-11-05T10:02:04Z"
+},
+"https://www.eventbrite.com/e/free-community-yoga-class-kirtan-in-the-grove-tickets-1986925566857": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-community-yoga-class-kirtan-in-the-grove-tickets-1986925566857",
+"checked_at": "2026-11-05T10:02:04Z"
+},
+"https://www.eventbrite.com/e/beach-clean-up-with-the-city-of-fort-lauderdale-tickets-1553027590329": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/beach-clean-up-with-the-city-of-fort-lauderdale-tickets-1553027590329",
+"checked_at": "2026-11-05T22:04:36Z"
+},
+"https://www.eventbrite.com/e/sunrise-beach-yoga-11626-tickets-2004454337883": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-beach-yoga-11626-tickets-2004454337883",
+"checked_at": "2026-11-05T22:04:36Z"
+},
+"https://www.eventbrite.com/e/yoga-at-the-jupiter-lighthouse-tickets-1977723683777": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-at-the-jupiter-lighthouse-tickets-1977723683777",
+"checked_at": "2026-11-05T22:04:37Z"
+},
+"https://www.eventbrite.com/e/pool-pilates-with-starr-hawkins-aka-babymommafit-tickets-2003735572035": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/pool-pilates-with-starr-hawkins-aka-babymommafit-tickets-2003735572035",
+"checked_at": "2026-11-06T10:01:57Z"
+},
+"https://www.eventbrite.com/e/immersive-sound-bath-in-jupiter-fl-meditation-deep-reset-tickets-1998617967141": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/immersive-sound-bath-in-jupiter-fl-meditation-deep-reset-tickets-1998617967141",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/sunrise-on-rollerblades-oceanfront-adventure-in-delray-beach-tickets-2000469465021": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-on-rollerblades-oceanfront-adventure-in-delray-beach-tickets-2000469465021",
+"checked_at": "2026-11-06T22:01:37Z"
+},
+"https://www.eventbrite.com/e/funky-poses-flow-a-yoga-workshop-for-your-next-level-tickets-2003024839214": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/funky-poses-flow-a-yoga-workshop-for-your-next-level-tickets-2003024839214",
+"checked_at": "2026-11-06T22:01:37Z"
+},
+"https://www.eventbrite.com/e/sunday-beach-meditation-for-women-tickets-2000851462586": {
+"error": "<HTTPError 404: 'Not Found'>",
+"checked_at": "2026-11-07T22:01:47Z"
+},
+"https://www.eventbrite.com/e/sound-healing-meditation-a-journey-through-breath-sound-stillness-tickets-2004449058091": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sound-healing-meditation-a-journey-through-breath-sound-stillness-tickets-2004449058091",
+"checked_at": "2026-11-07T10:02:12Z"
+},
+"https://www.eventbrite.com/e/sunrise-beach-yoga-and-sound-bath-tickets-2003831091737": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-beach-yoga-and-sound-bath-tickets-2003831091737",
+"checked_at": "2026-11-07T10:02:12Z"
+},
+"https://www.eventbrite.com/e/meditation-series-tickets-1995618178693": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/meditation-series-tickets-1995618178693",
+"checked_at": "2026-11-07T10:02:12Z"
+},
+"https://www.eventbrite.com/e/free-thanksgiving-power-flow-at-village-yoga-tickets-2004382126898": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-thanksgiving-power-flow-at-village-yoga-tickets-2004382126898",
+"checked_at": "2026-11-08T10:03:27Z"
+},
+"https://www.eventbrite.com/e/pilates-on-the-pool-deck-at-wyndham-grand-jupiter-with-pilaform-pilates-tickets-2004185127668": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/pilates-on-the-pool-deck-at-wyndham-grand-jupiter-with-pilaform-pilates-tickets-2004185127668",
+"checked_at": "2026-11-27T16:33:36Z"
+},
+"https://www.eventbrite.com/e/yoga-on-the-beach-in-south-beach-tickets-2002901560484": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-on-the-beach-in-south-beach-tickets-2002901560484",
+"checked_at": "2026-11-08T10:03:28Z"
+},
+"https://www.eventbrite.com/e/pilates-recharge-sol-sea-tickets-2002647255852": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/pilates-recharge-sol-sea-tickets-2002647255852",
+"checked_at": "2026-11-27T16:33:36Z"
+},
+"https://www.eventbrite.com/e/free-sunday-vinyasa-yoga-tickets-2003718911202": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-sunday-vinyasa-yoga-tickets-2003718911202",
+"checked_at": "2026-11-08T10:03:28Z"
+},
+"https://www.eventbrite.com/e/flow-in-the-gallery-with-jen-of-village-yoga-tickets-2004185203896": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/flow-in-the-gallery-with-jen-of-village-yoga-tickets-2004185203896",
+"checked_at": "2026-11-08T10:03:29Z"
+},
+"https://www.eventbrite.com/e/mindful-broward-community-of-practice-mbrc-meet-up-registration-1986045854614": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/mindful-broward-community-of-practice-mbrc-meet-up-registration-1986045854614",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/delray-vibe-flow-house-yoga-sound-healing-cinema-night-tickets-2004548949870": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/delray-vibe-flow-house-yoga-sound-healing-cinema-night-tickets-2004548949870",
+"checked_at": "2026-11-08T22:02:33Z"
+},
+"https://www.eventbrite.com/e/guided-meditation-tickets-1996167341253": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/guided-meditation-tickets-1996167341253",
+"checked_at": "2026-11-08T22:02:33Z"
+},
+"https://www.eventbrite.com/e/5-sunday-yoga-at-the-vizcaya-village-farmers-market-tickets-738838213987?aff=web&occurrence=2026-11-15": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/5-vizcaya-village-wellness-class-yoga-breathwork-sound-healing-tickets-738838213987?occurrence=2026-11-15&aff=web",
+"checked_at": "2026-11-09T10:02:46Z"
+},
+"https://www.eventbrite.com/e/fort-lauderdale-beach-yoga-sound-bath-new-moon-meditation-tickets-2002717268261": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/fort-lauderdale-beach-yoga-sound-bath-new-moon-meditation-tickets-2002717268261",
+"checked_at": "2026-11-09T10:02:46Z"
+},
+"https://www.eventbrite.com/e/thursday-food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470716306": {
+"quote": "Thursday Food Addicts In Recovery Anonymous(FA)- IN PERSON MEETING",
+"where": "event name",
+"evidence_url": "https://www.eventbrite.com/e/thursday-food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470716306",
+"match": "Food Addicts In Recovery Anonymous",
+"org": true,
+"checked_at": "2026-11-09T10:02:46Z"
+},
+"https://www.eventbrite.com/e/kabalah-yoga-module-2-the-ten-sefirot-flow-tickets-1999038755731": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/kabalah-yoga-module-2-the-ten-sefirot-flow-tickets-1999038755731",
+"checked_at": "2026-11-09T10:02:46Z"
+},
+"https://www.eventbrite.com/e/padel-x-club-pilates-tickets-2003977581893": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/padel-x-club-pilates-tickets-2003977581893",
+"checked_at": "2026-11-09T22:01:57Z"
+},
+"https://www.eventbrite.com/e/giana-bradshaw-at-zenvida-the-full-weekend-yoga-experience-tickets-2004131637678": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/giana-bradshaw-at-zenvida-the-full-weekend-yoga-experience-tickets-2004131637678",
+"checked_at": "2026-11-09T22:01:58Z"
+},
+"https://www.eventbrite.com/e/soflonoma-sunset-beach-yoga-tickets-2004486459961": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/soflonoma-sunset-beach-yoga-tickets-2004486459961",
+"checked_at": "2026-11-10T10:02:33Z"
+},
+"https://www.eventbrite.com/e/pilates-mat-on-the-intracoastal-tickets-1984672156847": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/pilates-mat-on-the-intracoastal-tickets-1984672156847",
+"checked_at": "2026-11-10T10:02:33Z"
+},
+"https://www.eventbrite.com/e/sunrise-beach-yoga-at-the-seagate-beach-club-tickets-1988507596751": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-beach-yoga-at-the-seagate-beach-club-tickets-1988507596751",
+"checked_at": "2026-11-10T10:02:33Z"
+},
+"https://www.eventbrite.com/e/puppies-pilates-paws-for-a-cause-crunch-fitness-tickets-2002737380417": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/puppies-pilates-paws-for-a-cause-crunch-fitness-tickets-2002737380417",
+"checked_at": "2026-11-10T10:02:34Z"
+},
+"https://www.eventbrite.com/e/soflonoma-sunset-beach-yoga-registration-2004486459961": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/soflonoma-sunset-beach-yoga-registration-2004486459961",
+"checked_at": "2026-11-10T22:02:45Z"
+},
+"https://www.eventbrite.com/e/full-moon-beach-mat-pilates-yoga-meditation-840-miami-tickets-2004291545968": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/full-moon-beach-mat-pilates-yoga-meditation-840-miami-tickets-2004291545968",
+"checked_at": "2026-11-11T10:02:18Z"
+},
+"https://www.eventbrite.com/e/kundalini-yoga-for-prosperity-with-amrita-tickets-2002238350806": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/kundalini-yoga-for-prosperity-with-amrita-tickets-2002238350806",
+"checked_at": "2026-11-11T10:02:18Z"
+},
+"https://www.eventbrite.com/e/north-beach-zumba-tickets-2004726335435": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/north-beach-zumba-tickets-2004726335435",
+"checked_at": "2026-11-11T22:03:04Z"
+},
+"https://www.eventbrite.com/e/yoga-at-the-jupiter-lighthouse-tickets-1977723684780": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-at-the-jupiter-lighthouse-tickets-1977723684780",
+"checked_at": "2026-11-11T22:03:04Z"
+},
+"https://www.eventbrite.com/e/volunteer-at-pike-food-forest-learn-skills-earn-service-hours-tickets-2003721084703": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/volunteer-at-pike-food-forest-learn-skills-earn-service-hours-tickets-2003721084703",
+"checked_at": "2026-11-11T22:03:04Z"
+},
+"https://www.eventbrite.com/e/wednesday-mornings-outdoor-yoga-miami-beach-belle-isle-park-tickets-1986357876881": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/wednesday-mornings-outdoor-yoga-miami-beach-belle-isle-park-tickets-1986357876881",
+"checked_at": "2026-11-11T22:03:05Z"
+},
+"https://www.eventbrite.com/e/food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470446499": {
+"quote": "Food Addicts In Recovery Anonymous(FA)- IN PERSON MEETING",
+"where": "event name",
+"evidence_url": "https://www.eventbrite.com/e/food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470446499",
+"match": "Food Addicts In Recovery Anonymous",
+"org": true,
+"checked_at": "2026-11-12T10:02:15Z"
+},
+"https://www.eventbrite.com/e/free-yoga-class-kirtan-at-miami-iskcon-temple-tickets-1988860823261": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-yoga-class-kirtan-at-miami-iskcon-temple-tickets-1988860823261",
+"checked_at": "2026-11-12T10:02:15Z"
+},
+"https://www.eventbrite.com/e/under-the-moon-sound-bath-community-gathering-tickets-2004677364963": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/under-the-moon-sound-bath-community-gathering-tickets-2004677364963",
+"checked_at": "2026-11-27T16:33:37Z"
+},
+"https://www.eventbrite.com/e/pilates-shop-spina-wellness-club-x-haute-honey-tickets-2004737283180": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/pilates-shop-spina-wellness-club-x-haute-honey-tickets-2004737283180",
+"checked_at": "2026-11-27T16:33:36Z"
+},
+"https://www.eventbrite.com/e/free-community-yoga-class-kirtan-in-the-grove-tickets-1986925567860": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-community-yoga-class-kirtan-in-the-grove-tickets-1986925567860",
+"checked_at": "2026-11-12T10:02:15Z"
+},
+"https://www.eventbrite.com/e/yoga-kirtan-community-night-in-coconut-grove-tickets-1987475343253": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-kirtan-community-night-in-coconut-grove-tickets-1987475343253",
+"checked_at": "2026-11-12T10:02:16Z"
+},
+"https://www.eventbrite.com/e/adventure-awaits-thankful-for-nature-hike-north-jupiter-flatwoods-registration-1997717568023": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/adventure-awaits-thankful-for-nature-hike-north-jupiter-flatwoods-registration-1997717568023",
+"checked_at": "2026-11-27T16:33:34Z"
+},
+"https://www.eventbrite.com/e/ceremonial-sound-bath-meditation-tickets-2004449874533": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/ceremonial-sound-bath-meditation-tickets-2004449874533",
+"checked_at": "2026-11-27T16:33:34Z"
+},
+"https://www.eventbrite.com/e/5-sunday-yoga-at-the-vizcaya-village-farmers-market-tickets-738838213987?aff=web&occurrence=2026-11-29": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/5-vizcaya-village-wellness-class-yoga-breathwork-sound-healing-tickets-738838213987?occurrence=2026-11-29&aff=web",
+"checked_at": "2026-11-27T16:33:34Z"
+},
+"https://www.eventbrite.com/e/christmas-morning-beach-yoga-jolly-flow-on-fort-lauderdale-beach-tickets-1998501394469": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/christmas-morning-beach-yoga-jolly-flow-on-fort-lauderdale-beach-tickets-1998501394469",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/counter-current-run-club-december-tickets-2004841577126": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/counter-current-run-club-december-tickets-2004841577126",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/chair-yoga-with-mike-mitchell-tickets-2005417792602": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/chair-yoga-with-mike-mitchell-tickets-2005417792602",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/free-community-yoga-class-kirtan-in-the-grove-tickets-1986925569866": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-community-yoga-class-kirtan-in-the-grove-tickets-1986925569866",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/free-yoga-class-kirtan-at-miami-iskcon-temple-tickets-1988860825267": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/free-yoga-class-kirtan-at-miami-iskcon-temple-tickets-1988860825267",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/gymshark-wynwood-run-club-the-gslc-warm-up-tickets-2005292372467": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/gymshark-wynwood-run-club-the-gslc-warm-up-tickets-2005292372467",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/kundalini-yoga-for-prosperity-with-amrita-tickets-2002238352812": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/kundalini-yoga-for-prosperity-with-amrita-tickets-2002238352812",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/rooftop-yoga-flow-tickets-2005392385609": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/rooftop-yoga-flow-tickets-2005392385609",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/new-moon-beach-mat-pilates-yoga-meditation-840-miami-tickets-2004761567816": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/new-moon-beach-mat-pilates-yoga-meditation-840-miami-tickets-2004761567816",
+"checked_at": "2026-11-27T16:33:35Z"
+},
+"https://www.eventbrite.com/e/sunrise-beach-yoga-at-the-seagate-beach-club-tickets-1988507598757": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-beach-yoga-at-the-seagate-beach-club-tickets-1988507598757",
+"checked_at": "2026-11-27T16:33:36Z"
+},
+"https://www.eventbrite.com/e/sunrise-beach-yoga-and-sound-bath-tickets-2005221042116": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-beach-yoga-and-sound-bath-tickets-2005221042116",
+"checked_at": "2026-11-27T16:33:36Z"
+},
+"https://www.eventbrite.com/e/sunrise-yoga-on-the-beach-every-wednesday-7-am--tickets-1979367601780": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/sunrise-yoga-on-the-beach-every-wednesday-7-am--tickets-1979367601780",
+"checked_at": "2026-11-27T16:33:36Z"
+},
+"https://www.eventbrite.com/e/run-club-cold-plunge-at-the-standard-spa-miami-beach-tickets-2003935653484": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/run-club-cold-plunge-at-the-standard-spa-miami-beach-tickets-2003935653484",
+"checked_at": "2026-11-27T16:33:36Z"
+},
+"https://www.eventbrite.com/e/thursday-food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470719315": {
+"quote": "Thursday Food Addicts In Recovery Anonymous(FA)- IN PERSON MEETING",
+"where": "event name",
+"evidence_url": "https://www.eventbrite.com/e/thursday-food-addicts-in-recovery-anonymousfa-in-person-meeting-tickets-1983470719315",
+"match": "Food Addicts In Recovery Anonymous",
+"org": true,
+"checked_at": "2026-11-27T16:33:37Z"
+},
+"https://www.eventbrite.com/e/the-art-of-stillness-yoga-sound-and-canvas-at-the-kampong-tickets-2005051104829": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/the-art-of-stillness-yoga-sound-and-canvas-at-the-kampong-tickets-2005051104829",
+"checked_at": "2026-11-27T16:33:37Z"
+},
+"https://www.eventbrite.com/e/yoga-flow-on-the-lawn-the-ray-hotel-tickets-2005479026755": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-flow-on-the-lawn-the-ray-hotel-tickets-2005479026755",
+"checked_at": "2026-11-27T16:33:37Z"
+},
+"https://www.eventbrite.com/e/sweat-strength-and-sobriety-tickets-1998892753033": {
+"quote": "Come get a great sober workout!",
+"where": "event description",
+"evidence_url": "https://www.eventbrite.com/e/sweat-strength-and-sobriety-tickets-1998892753033",
+"match": "sober",
+"org": false,
+"checked_at": "2026-11-27T16:33:37Z"
+},
+"https://www.eventbrite.com/e/volunteer-at-pike-food-forest-learn-skills-earn-service-hours-tickets-2003721086709": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/volunteer-at-pike-food-forest-learn-skills-earn-service-hours-tickets-2003721086709",
+"checked_at": "2026-11-27T16:33:37Z"
+},
+"https://www.eventbrite.com/e/wednesday-mornings-outdoor-yoga-miami-beach-belle-isle-park-tickets-1986357878887": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/wednesday-mornings-outdoor-yoga-miami-beach-belle-isle-park-tickets-1986357878887",
+"checked_at": "2026-11-27T16:33:37Z"
+},
+"https://www.eventbrite.com/e/yoga-kirtan-community-night-in-coconut-grove-tickets-1987475345259": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-kirtan-community-night-in-coconut-grove-tickets-1987475345259",
+"checked_at": "2026-11-27T16:33:38Z"
+},
+"https://www.eventbrite.com/e/yoga-at-the-jupiter-lighthouse-tickets-1977723686786": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/yoga-at-the-jupiter-lighthouse-tickets-1977723686786",
+"checked_at": "2026-11-27T16:33:38Z"
+},
+"https://www.northmiamifl.gov/calendar.aspx?EID=5950": {
+"none": true,
+"evidence_url": "https://www.northmiamifl.gov/calendar.aspx?EID=5950",
+"checked_at": "2026-11-27T16:33:38Z"
+}
+}

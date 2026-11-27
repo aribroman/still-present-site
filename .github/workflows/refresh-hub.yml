@@ -1,0 +1,45 @@
+name: Refresh Still Present Hub (Meetings & Events)
+
+on:
+  schedule:
+    # Daily at 6:00 AM EST (11:00 UTC)
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-hub
+  cancel-in-progress: false
+
+jobs:
+  refresh-hub:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install minimal Python dependencies
+        run: pip install --no-cache-dir requests
+
+      - name: Run Hub meetings & events refresh
+        run: python3 hub-pipeline/refresh.py
+
+      - name: Commit updated Hub data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add hub/data/ hub-pipeline/raw/events_national.json hub-pipeline/raw/events_national_pages.json hub-pipeline/raw/event_evidence.json hub-pipeline/raw/last_*.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh Hub meetings & events ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          else
+            echo "No Hub data changes to commit."
+          fi
