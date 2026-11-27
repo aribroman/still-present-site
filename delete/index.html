@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0a0a0a">
+<title>Delete my data · Still Present</title>
+<meta name="description" content="How to delete your Still Present data: the journal on your phone and, if you used it, your Groups data.">
+<link rel="icon" type="image/png" href="/icons/icon-192.png"><link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<style>
+@font-face{font-family:CG;font-weight:500;src:url(/fonts/CormorantGaramond-500.ttf)}
+@font-face{font-family:CG;font-style:italic;font-weight:400;src:url(/fonts/CormorantGaramond-400i.ttf)}
+@font-face{font-family:In;font-weight:400;src:url(/fonts/Inter-400.ttf)}
+@font-face{font-family:In;font-weight:500;src:url(/fonts/Inter-500.ttf)}
+:root{--bg:#0a0a0a;--s1:#141414;--s2:#1c1c1e;--line:#2c2c2e;--gold:#c9a96e;--goldhi:#e8c87a;--ivory:#f5f0e8;--muted:#b8b0a0;--dim:#6a655f}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--ivory);font:400 16px/1.55 In,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+body{background:radial-gradient(ellipse at 50% 0%,rgba(201,169,110,.10),transparent 60%) no-repeat,var(--bg)}
+main{max-width:560px;margin:0 auto;padding:calc(1.5rem + env(safe-area-inset-top)) 1.25rem 4rem}
+h1{font-family:CG,serif;font-weight:500;font-size:2.5rem;line-height:1.1;margin:.2rem 0 .5rem}
+h2{font-family:CG,serif;font-weight:500;font-size:1.7rem;margin:2.2rem 0 .6rem}
+.k{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+.lead{color:var(--muted);font-size:1.05rem}
+.card{background:var(--s1);border:1px solid var(--line);border-radius:18px;padding:1rem 1.1rem;margin:.9rem 0}
+label{display:block;font-size:.85rem;color:var(--muted);margin:.7rem 0 .35rem}
+select{width:100%;font:inherit;color:var(--ivory);background:var(--s2);border:1px solid var(--line);border-radius:12px;padding:.7rem .8rem;color-scheme:dark}
+.row{display:flex;gap:.6rem}.row>*{flex:1}
+.note{border-left:2px solid var(--gold);padding:.1rem 0 .1rem .9rem;color:var(--muted);margin:1rem 0}
+.foot{color:var(--dim);font-size:.8rem;text-align:center;margin-top:3rem}
+h3{font-size:1rem;font-weight:500;margin:1.4rem 0 .3rem;color:var(--goldhi)}
+ul{padding-left:1.2rem}li{margin:.25rem 0}a{color:var(--goldhi)}
+.lang{display:flex;gap:.5rem;margin:.8rem 0 0}.lang a{border:1px solid var(--line);border-radius:99px;padding:.15rem .8rem;text-decoration:none;font-size:.85rem}
+.steps{counter-reset:s;list-style:none;padding:0}.steps li{counter-increment:s;position:relative;padding-left:2rem;margin:.5rem 0}.steps li::before{content:counter(s);position:absolute;left:0;top:.05rem;width:1.4rem;height:1.4rem;border-radius:50%;background:var(--s2);border:1px solid var(--line);color:var(--gold);font-size:.8rem;display:flex;align-items:center;justify-content:center}
+</style>
+</head><body><main>
+<nav class="lang"><a href="#en">English</a><a href="#es">Español</a></nav>
+
+<section id="en" lang="en">
+<p class="k">Still Present</p>
+<h1>Delete my data</h1>
+<p class="lead">Your journal stays on your phone. We never get a copy of it, so deleting it on the phone deletes it for good. Groups is the only part kept on a server, and it has its own delete button.</p>
+
+<h2>Journal and everything on the phone</h2>
+<p>Your journal and reflections, check-ins, day counter, urge log, circles, saved quotes, reminders, PIN and settings are stored only on your phone. Two ways to remove all of it:</p>
+<div class="card"><h3>In the app</h3>
+<ol class="steps"><li>Open <b>More</b>, then <b>Settings</b>.</li><li>Scroll to <b>Your data</b>.</li><li>Tap <b>Delete everything</b> and confirm.</li></ol></div>
+<div class="card"><h3>Or uninstall the app</h3>
+<p>Uninstalling Still Present from an Android phone removes all of its data from that phone. The web version keeps its data in the browser: use <b>Delete everything</b> there, or clear the site's data for present.sites.tab.bot in the browser's settings.</p></div>
+<p class="note">A backup file you exported yourself is yours to keep or delete, wherever you saved it. We don't have it.</p>
+
+<h2>Groups data (only if you used Groups)</h2>
+<p>If you joined or hosted a group, your nicknames, posts, reports, memberships, notification code and your Groups sign-in are stored on our Groups server. Uninstalling the app does not remove them, so use this button first:</p>
+<div class="card"><h3>Delete my group data</h3>
+<ol class="steps"><li>Open <b>Hub</b>, then <b>Groups</b>.</li><li>Scroll to the bottom and tap <b>Delete my group data</b>.</li><li>Confirm. It is removed from the server right away and cannot be undone.</li></ol>
+<p class="m">A host closes their open groups first, in <b>Host tools › Close group</b>. Deleting your Groups data does not touch the journal or anything else on your phone.</p></div>
+<p>No longer have the app or the phone? Email <a href="mailto:caz@mail.tab.bot">caz@mail.tab.bot</a> with the group's name and the nickname you used (hosts: the email you signed in with). We will delete it and reply when it's done.</p>
+
+<h2>What is left afterwards</h2>
+<p>Nothing that identifies you. The anonymous "opened today" count holds no ID (its daily hashes are deleted after two days), and the companies that host our servers may keep short technical logs for a few days to run and protect the service. More in the <a href="/privacy/">privacy policy</a>.</p>
+</section>
+
+<section id="es" lang="es">
+<p class="k" style="margin-top:3rem">Still Present</p>
+<h1>Borrar mis datos</h1>
+<p class="lead">Tu diario se queda en tu teléfono. Nunca recibimos una copia, así que al borrarlo en el teléfono se borra para siempre. Grupos es la única parte que se guarda en un servidor y tiene su propio botón para borrar.</p>
+
+<h2>El diario y todo lo que está en el teléfono</h2>
+<p>Tu diario y reflexiones, los registros, el contador de días, el registro de impulsos, los círculos, las frases guardadas, los recordatorios, el PIN y los ajustes se guardan solo en tu teléfono. Hay dos formas de borrarlo todo:</p>
+<div class="card"><h3>En la app</h3>
+<ol class="steps"><li>Abrir <b>Más</b> y luego <b>Ajustes</b>.</li><li>Bajar hasta <b>Mis datos</b>.</li><li>Tocar <b>Borrar todo</b> y confirmar.</li></ol></div>
+<div class="card"><h3>O desinstalar la app</h3>
+<p>Al desinstalar Still Present de un teléfono Android se borran todos sus datos de ese teléfono. La versión web guarda sus datos en el navegador: usar <b>Borrar todo</b> allí, o borrar los datos del sitio present.sites.tab.bot en los ajustes del navegador.</p></div>
+<p class="note">Una copia de seguridad que hayas exportado es tuya y puedes guardarla o borrarla donde la tengas. Nosotros no la tenemos.</p>
+
+<h2>Datos de Grupos (solo si usaste Grupos)</h2>
+<p>Si te uniste a un grupo o anfitrionaste uno, tus apodos, publicaciones, reportes, membresías, el código de notificaciones y tu inicio de sesión de Grupos se guardan en nuestro servidor de Grupos. Desinstalar la app no los borra, así que primero hay que usar este botón:</p>
+<div class="card"><h3>Borrar mis datos de grupos</h3>
+<ol class="steps"><li>Abrir <b>Hub</b> y luego <b>Grupos</b>.</li><li>Bajar hasta el final y tocar <b>Borrar mis datos de grupos</b>.</li><li>Confirmar. Se borran del servidor enseguida y no se puede deshacer.</li></ol>
+<p class="m">Quien anfitriona un grupo abierto primero lo cierra en <b>Herramientas para coordinar › Cerrar grupo</b>. Borrar los datos de Grupos no toca el diario ni nada más en tu teléfono.</p></div>
+<p>¿Ya no tienes la app o el teléfono? Escribe a <a href="mailto:caz@mail.tab.bot">caz@mail.tab.bot</a> con el nombre del grupo y el apodo que usaste (si anfitrionabas: el correo con el que iniciaste sesión). Lo borraremos y te avisaremos cuando esté hecho.</p>
+
+<h2>Qué queda después</h2>
+<p>Nada que te identifique. El conteo anónimo de "abierta hoy" no guarda ningún identificador (sus hashes diarios se borran a los dos días), y las empresas que alojan nuestros servidores pueden guardar registros técnicos breves durante unos días para hacer funcionar y proteger el servicio. Más detalles en la <a href="/privacy/#es">política de privacidad</a>.</p>
+</section>
+<p class="foot">Still Present · <a href="/">present.sites.tab.bot</a> · <a href="/privacy/">Privacy</a></p>
+</main></body></html>

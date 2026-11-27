@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0a0a0a">
+<title>Privacy policy · Still Present</title>
+<meta name="description" content="What Still Present keeps on your phone, and the little that reaches a server.">
+<link rel="icon" type="image/png" href="/icons/icon-192.png"><link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<style>
+@font-face{font-family:CG;font-weight:500;src:url(/fonts/CormorantGaramond-500.ttf)}
+@font-face{font-family:CG;font-style:italic;font-weight:400;src:url(/fonts/CormorantGaramond-400i.ttf)}
+@font-face{font-family:In;font-weight:400;src:url(/fonts/Inter-400.ttf)}
+@font-face{font-family:In;font-weight:500;src:url(/fonts/Inter-500.ttf)}
+:root{--bg:#0a0a0a;--s1:#141414;--s2:#1c1c1e;--line:#2c2c2e;--gold:#c9a96e;--goldhi:#e8c87a;--ivory:#f5f0e8;--muted:#b8b0a0;--dim:#6a655f}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--ivory);font:400 16px/1.55 In,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+body{background:radial-gradient(ellipse at 50% 0%,rgba(201,169,110,.10),transparent 60%) no-repeat,var(--bg)}
+main{max-width:560px;margin:0 auto;padding:calc(1.5rem + env(safe-area-inset-top)) 1.25rem 4rem}
+h1{font-family:CG,serif;font-weight:500;font-size:2.5rem;line-height:1.1;margin:.2rem 0 .5rem}
+h2{font-family:CG,serif;font-weight:500;font-size:1.7rem;margin:2.2rem 0 .6rem}
+.k{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+.lead{color:var(--muted);font-size:1.05rem}
+.card{background:var(--s1);border:1px solid var(--line);border-radius:18px;padding:1rem 1.1rem;margin:.9rem 0}
+label{display:block;font-size:.85rem;color:var(--muted);margin:.7rem 0 .35rem}
+select{width:100%;font:inherit;color:var(--ivory);background:var(--s2);border:1px solid var(--line);border-radius:12px;padding:.7rem .8rem;color-scheme:dark}
+.row{display:flex;gap:.6rem}.row>*{flex:1}
+.note{border-left:2px solid var(--gold);padding:.1rem 0 .1rem .9rem;color:var(--muted);margin:1rem 0}
+.foot{color:var(--dim);font-size:.8rem;text-align:center;margin-top:3rem}
+h3{font-size:1rem;font-weight:500;margin:1.4rem 0 .3rem;color:var(--goldhi)}
+ul{padding-left:1.2rem}li{margin:.25rem 0}a{color:var(--goldhi)}
+.lang{display:flex;gap:.5rem;margin:.8rem 0 0}.lang a{border:1px solid var(--line);border-radius:99px;padding:.15rem .8rem;text-decoration:none;font-size:.85rem}
+</style>
+</head><body><main>
+<nav class="lang"><a href="#en">English</a><a href="#es">Español</a></nav>
+
+<section id="en" lang="en">
+<p class="k">Still Present</p>
+<h1>Privacy policy</h1>
+<p class="lead">Short version: no account, no ads, no tracking. Your journal, check-ins and settings stay on your phone. The only things that reach a server are the optional Groups feature, one anonymous "opened today" count, and the public meeting lists the app downloads.</p>
+<p class="m">Effective November 12, 2026. This policy covers the Still Present app for Android, the web version at present.sites.tab.bot, and the iPhone wallpaper setup.</p>
+
+<h2>What stays on your phone</h2>
+<p>These are saved only on your device and are never sent to us: your journal and reflections, check-ins, the hard-moment log, your day counter, saved and hidden quotes, your program and step choices, reminders, the people you chose to reach out to, your PIN (stored as a hash), and all settings. The app's data is excluded from Google's cloud backup. If you make a backup file, it is saved where you choose on your phone, and what you do with it is up to you. Uninstalling the app deletes this data.</p>
+
+<h2>Groups (optional)</h2>
+<p>Groups is the only part of the app that stores what you write on a server. If you never open Groups, nothing here applies to you.</p>
+<ul>
+<li><b>Members.</b> When you join a group with a code or QR, the app creates an anonymous sign-in for you. No email, phone number or real name is asked for. We store: a random account ID, the nickname you pick for each group, which groups you belong to, the posts you write, any reports you file (the reason and an optional note), and a record of failed join-code attempts (used only to stop code guessing).</li>
+<li><b>Hosts.</b> People who want to start a group sign in with an email code. For hosts we also store the email address and the name and note sent with the request to host, so we can check who they are before approving them.</li>
+<li><b>Who can see it.</b> Posts and nicknames are visible to members of that group. The app team can see posts to keep groups safe: the app owner can read any group, hide or delete posts, remove members, and see host requests and reports. Hosts can see reports in their group, hide posts and remove members.</li>
+<li><b>Automatic check.</b> When a post is saved, the server checks it against a short list of words and phrases (for example selling drugs, threats and slurs). A matching post is held: only its author and the app team can see it until the app team approves or deletes it. Nothing else reads your posts automatically.</li>
+<li><b>Deleting.</b> You can delete one of your posts at any time, and it disappears for everyone. "Delete my group data" in Groups erases your memberships, posts, reports, join attempts and your sign-in from the server. A host must archive their active groups first. Step by step: <a href="/delete/">Delete my data</a>.</li>
+<li><b>Group notifications (Android app).</b> If group notifications are on (Settings, on by default), the app gets a random notification code from the server and keeps it on the phone. About every 15 minutes it sends only that code, plus the IDs of any people you chose to hide, and gets back only two times: the newest post by someone else in your groups and, for hosts, the newest open report. The server stores only a hash of the code and when it was last used. The notification itself says only "New activity in your group" or "Something in your group needs a look". Turning the setting off, or "Delete my group data", deletes the code.</li>
+<li><b>Hidden people.</b> "Hide posts from this person" is saved only on your phone. The person is not told.</li>
+<li><b>Where.</b> Groups data is stored with Supabase, our database provider, in the United States. Requests may pass through our own website on the way.</li>
+</ul>
+
+<h2>The "opened today" count</h2>
+<p>Once a day, when you open the app, it sends a single random code (32 letters and numbers, made fresh for that one send) to our website. The server turns it into a hash and keeps only how many different codes arrived that day. The hashes are deleted after two days. Nothing else is sent: no device details, no app content, no ID that links one day to the next. We use the count only to know roughly how many people use the app.</p>
+
+<h2>Meetings, events and readings</h2>
+<p>The app downloads public lists of meetings and events from our website and keeps a copy on your phone for offline use. If you tap "Nearby", your location is used on your phone only, to sort meetings by distance and to find your nearest ZIP code. Your location is never sent to us. The request for a meeting list shows which state's list was downloaded, like any web request. Opening a meeting link, a map or a phone number hands you over to that website or app, which has its own privacy policy.</p>
+
+<h2>Other connections</h2>
+<ul>
+<li><b>Updates (web version only).</b> The web version checks a small version file to know when a new version is ready.</li>
+<li><b>iPhone wallpaper.</b> The iPhone Shortcut asks our website for today's wallpaper image. The address it uses carries your wallpaper settings as short codes (for example language, time zone and quote types). The server uses them to pick the image and does not store them.</li>
+<li><b>QR scanning.</b> Scanning a group QR uses Google's code scanner in Google Play services. The camera is handled by Google, and the app receives only the text of the code.</li>
+<li><b>Connection check.</b> If you run it from the More tab, the app sends test requests to our servers and the Groups server and shows the results on your phone. Nothing about the result is sent to us.</li>
+</ul>
+
+<h2>What we never do</h2>
+<p>No ads, no advertising IDs, no analytics or crash-reporting tools, no selling or sharing of data. Like any website, the companies that host our servers may keep short technical logs (such as IP addresses) to run and protect the service. We do not use them to identify you.</p>
+
+<h2>Age</h2>
+<p>Still Present is meant for adults (18 and over).</p>
+
+<h2>Not medical care</h2>
+<p>Still Present supports your recovery. It is not medical care and is not a crisis service. If you are in crisis in the U.S., call or text 988.</p>
+
+<h2>Changes and contact</h2>
+<p>If this policy changes, we will update this page and the date above. Questions, or a request to delete Groups data you can't reach from the app: <a href="mailto:caz@mail.tab.bot">caz@mail.tab.bot</a>.</p>
+</section>
+<hr style="border:0;border-top:1px solid var(--line);margin:3rem 0">
+
+<section id="es" lang="es">
+<p class="k">Still Present</p>
+<h1>Política de privacidad</h1>
+<p class="lead">En pocas palabras: sin cuenta, sin anuncios, sin rastreo. Tu diario, tus revisiones y tus ajustes se quedan en tu teléfono. Lo único que llega a un servidor es la función opcional de Grupos, un conteo anónimo de "abierta hoy" y las listas públicas de reuniones que descarga la app.</p>
+<p class="m">Vigente desde el 12 de noviembre de 2026. Esta política cubre la app Still Present para Android, la versión web en present.sites.tab.bot y la configuración del fondo de pantalla en iPhone.</p>
+
+<h2>Lo que se queda en tu teléfono</h2>
+<p>Esto se guarda solo en tu dispositivo y nunca se nos envía: tu diario y reflexiones, tus revisiones, el registro de momentos difíciles, tu contador de días, las frases guardadas y ocultas, tu programa y tus pasos, los recordatorios, las personas que elegiste para pedir apoyo, tu PIN (guardado como hash) y todos los ajustes. Los datos de la app no se incluyen en la copia de seguridad en la nube de Google. Si haces una copia de seguridad, se guarda donde tú elijas en tu teléfono y lo que hagas con ella depende de ti. Al desinstalar la app, estos datos se borran.</p>
+
+<h2>Grupos (opcional)</h2>
+<p>Grupos es la única parte de la app que guarda en un servidor lo que escribes. Si nunca abres Grupos, nada de esta sección te aplica.</p>
+<ul>
+<li><b>Participantes.</b> Cuando te unes a un grupo con un código o un QR, la app crea un inicio de sesión anónimo. No se pide correo, número de teléfono ni nombre real. Guardamos: un identificador de cuenta al azar, el apodo que elijas en cada grupo, los grupos a los que perteneces, tus mensajes, los reportes que hagas (el motivo y una nota opcional) y un registro de intentos fallidos con códigos (solo para evitar que alguien adivine códigos).</li>
+<li><b>Personas anfitrionas.</b> Quien quiere crear un grupo inicia sesión con un código por correo. En ese caso también guardamos el correo y el nombre y la nota enviados con la solicitud, para poder verificar a la persona antes de aprobarla.</li>
+<li><b>Quién lo ve.</b> Los mensajes y apodos los ven quienes pertenecen a ese grupo. El equipo de la app puede ver las publicaciones para mantener los grupos seguros: la persona dueña de la app puede leer cualquier grupo, ocultar o borrar mensajes, quitar participantes y ver solicitudes y reportes. Las personas anfitrionas ven los reportes de su grupo, pueden ocultar mensajes y quitar participantes.</li>
+<li><b>Revisión automática.</b> Cuando se guarda un mensaje, el servidor lo compara con una lista corta de palabras y frases (por ejemplo venta de drogas, amenazas e insultos discriminatorios). Un mensaje que coincide queda retenido: solo lo ven quien lo escribió y el equipo de la app, hasta que el equipo lo apruebe o lo borre. Nada más lee los mensajes de forma automática.</li>
+<li><b>Borrar.</b> Puedes borrar cualquiera de tus mensajes cuando quieras y desaparece para todo el grupo. "Borrar mis datos de grupos" elimina del servidor tus membresías, mensajes, reportes, intentos de código y tu inicio de sesión. Si anfitrionas un grupo activo, primero debes archivarlo. Paso a paso: <a href="/delete/#es">Borrar mis datos</a>.</li>
+<li><b>Notificaciones de grupos (app de Android).</b> Si las notificaciones de grupos están activadas (en Ajustes, activadas de forma predeterminada), la app recibe del servidor un código de notificación al azar y lo guarda en el teléfono. Cada 15 minutos más o menos envía solo ese código, junto con los identificadores de las personas que hayas decidido ocultar, y recibe solo dos horas: la de la publicación más reciente de otra persona en tus grupos y, si anfitrionas, la del reporte abierto más reciente. El servidor guarda solo un hash del código y cuándo se usó por última vez. La notificación solo dice "Hay actividad nueva en tu grupo" o "Algo en tu grupo necesita revisión". Al desactivar la opción, o con "Borrar mis datos de grupos", el código se borra.</li>
+<li><b>Personas ocultas.</b> "Ocultar publicaciones de esta persona" se guarda solo en tu teléfono. Esa persona no recibe ningún aviso.</li>
+<li><b>Dónde.</b> Los datos de Grupos se guardan con Supabase, nuestro proveedor de base de datos, en Estados Unidos. Las solicitudes pueden pasar por nuestro propio sitio web en el camino.</li>
+</ul>
+
+<h2>El conteo de "abierta hoy"</h2>
+<p>Una vez al día, al abrir la app, se envía un solo código al azar (32 letras y números, creado de nuevo para ese envío) a nuestro sitio. El servidor lo convierte en un hash y solo guarda cuántos códigos distintos llegaron ese día. Los hashes se borran a los dos días. No se envía nada más: ni datos del dispositivo, ni contenido de la app, ni un identificador que una un día con otro. Usamos el conteo solo para saber cuántas personas usan la app, más o menos.</p>
+
+<h2>Reuniones, eventos y lecturas</h2>
+<p>La app descarga de nuestro sitio listas públicas de reuniones y eventos y guarda una copia en tu teléfono para usarla sin conexión. Si tocas "Cerca", tu ubicación se usa solo en tu teléfono, para ordenar las reuniones por distancia y encontrar tu código postal más cercano. Tu ubicación nunca se nos envía. La solicitud de una lista muestra de qué estado se descargó, como cualquier solicitud web. Al abrir el enlace de una reunión, un mapa o un número de teléfono, pasas a ese sitio o app, que tiene su propia política de privacidad.</p>
+
+<h2>Otras conexiones</h2>
+<ul>
+<li><b>Actualizaciones (solo la versión web).</b> La versión web revisa un pequeño archivo de versión para saber cuándo hay una nueva.</li>
+<li><b>Fondo de pantalla en iPhone.</b> El Atajo de iPhone pide a nuestro sitio la imagen del día. La dirección que usa lleva tus ajustes del fondo como códigos cortos (por ejemplo idioma, zona horaria y tipos de frases). El servidor los usa para elegir la imagen y no los guarda.</li>
+<li><b>Escanear un QR.</b> Para escanear el QR de un grupo se usa el escáner de códigos de Google en los servicios de Google Play. La cámara la maneja Google y la app solo recibe el texto del código.</li>
+<li><b>Revisión de conexión.</b> Si la usas desde la pestaña Más, la app envía solicitudes de prueba a nuestros servidores y al de Grupos y muestra el resultado en tu teléfono. No se nos envía nada sobre el resultado.</li>
+</ul>
+
+<h2>Lo que nunca hacemos</h2>
+<p>Sin anuncios, sin identificadores de publicidad, sin herramientas de analítica ni de reportes de fallos, sin vender ni compartir datos. Como en cualquier sitio web, las empresas que alojan nuestros servidores pueden guardar registros técnicos breves (como direcciones IP) para hacer funcionar y proteger el servicio. No los usamos para identificarte.</p>
+
+<h2>Edad</h2>
+<p>Still Present está pensada para personas adultas (18 años o más).</p>
+
+<h2>No es atención médica</h2>
+<p>Still Present apoya tu recuperación. No es atención médica ni un servicio de crisis. Si estás en crisis en EE. UU., llama o escribe al 988.</p>
+
+<h2>Cambios y contacto</h2>
+<p>Si esta política cambia, actualizaremos esta página y la fecha de arriba. Preguntas, o una solicitud para borrar datos de Grupos a los que no puedas llegar desde la app: <a href="mailto:caz@mail.tab.bot">caz@mail.tab.bot</a>.</p>
+</section>
+<p class="foot">Still Present · <a href="/">present.sites.tab.bot</a></p>
+</main></body></html>

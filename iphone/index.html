@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0a0a0a">
+<title>Still Present on iPhone · daily lock screen in 2 minutes</title>
+<meta name="description" content="Set up Still Present's changing wallpaper on iPhone with Apple's Shortcuts app. About 2 minutes, once.">
+<meta property="og:title" content="Still Present on iPhone: a new lock screen every day">
+<meta property="og:description" content="A 2-minute Shortcuts setup. No App Store, no account.">
+<meta property="og:image" content="https://aribroman.github.io/still-present-site/og.png">
+<link rel="icon" type="image/png" href="/icons/icon-192.png"><link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<style>
+@font-face{font-family:CG;font-weight:500;src:url(/fonts/CormorantGaramond-500.ttf)}
+@font-face{font-family:CG;font-style:italic;font-weight:400;src:url(/fonts/CormorantGaramond-400i.ttf)}
+@font-face{font-family:In;font-weight:400;src:url(/fonts/Inter-400.ttf)}
+@font-face{font-family:In;font-weight:500;src:url(/fonts/Inter-500.ttf)}
+:root{--bg:#0a0a0a;--s1:#141414;--s2:#1c1c1e;--line:#2c2c2e;--gold:#c9a96e;--goldhi:#e8c87a;--ivory:#f5f0e8;--muted:#b8b0a0;--dim:#6a655f}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--ivory);font:400 16px/1.55 In,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+body{background:radial-gradient(ellipse at 50% 0%,rgba(201,169,110,.10),transparent 60%) no-repeat,var(--bg)}
+main{max-width:560px;margin:0 auto;padding:calc(1.5rem + env(safe-area-inset-top)) 1.25rem 4rem}
+h1{font-family:CG,serif;font-weight:500;font-size:2.5rem;line-height:1.1;margin:.2rem 0 .5rem}
+h2{font-family:CG,serif;font-weight:500;font-size:1.7rem;margin:2.2rem 0 .6rem}
+.k{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+.lead{color:var(--muted);font-size:1.05rem}
+.card{background:var(--s1);border:1px solid var(--line);border-radius:18px;padding:1rem 1.1rem;margin:.9rem 0}
+label{display:block;font-size:.85rem;color:var(--muted);margin:.7rem 0 .35rem}
+select{width:100%;font:inherit;color:var(--ivory);background:var(--s2);border:1px solid var(--line);border-radius:12px;padding:.7rem .8rem;color-scheme:dark}
+.row{display:flex;gap:.6rem}.row>*{flex:1}
+.url{font:500 .82rem/1.4 ui-monospace,Menlo,monospace;word-break:break-all;background:#0f0f0f;border:1px dashed #4a4030;border-radius:12px;padding:.8rem;color:var(--goldhi);margin:.6rem 0}
+button,.btn{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;font:600 1rem In,sans-serif;border:0;border-radius:14px;padding:.85rem 1rem;cursor:pointer;text-decoration:none;width:100%}
+.primary{background:var(--gold);color:#16120a}.ghost{background:none;color:var(--ivory);border:1px solid #3a3a3c}
+ol.steps{list-style:none;counter-reset:s;padding:0;margin:0}
+ol.steps>li{counter-increment:s;position:relative;padding:0 0 1.2rem 2.6rem}
+ol.steps>li:before{content:counter(s);position:absolute;left:0;top:-.1rem;width:1.8rem;height:1.8rem;border-radius:50%;border:1px solid var(--gold);color:var(--gold);display:grid;place-items:center;font-size:.85rem}
+b{color:var(--ivory);font-weight:500}.m{color:var(--muted)}
+.tag{display:inline-block;background:var(--s2);border:1px solid var(--line);border-radius:8px;padding:.05rem .45rem;font-size:.88rem;color:var(--ivory);white-space:nowrap}
+.prev{display:flex;gap:1rem;align-items:center}
+.prev img{width:132px;aspect-ratio:1179/2556;border-radius:18px;border:4px solid #222;background:#000;flex:none;object-fit:cover}
+.note{border-left:2px solid var(--gold);padding:.1rem 0 .1rem .9rem;color:var(--muted);margin:1rem 0}
+.foot{color:var(--dim);font-size:.8rem;text-align:center;margin-top:3rem}
+#icloud{display:none}
+</style></head>
+<body><main>
+<div class="k">Still Present · iPhone</div>
+<h1>A new lock screen, every day.</h1>
+<p class="lead">iPhones don't let apps change the wallpaper, but Apple's own <b>Shortcuts</b> app can, on a schedule. Set it up once. It takes about 2 minutes.</p>
+
+<div class="card" id="icloud">
+  <p style="margin-top:0"><b>Fastest way:</b> get the ready-made Shortcut, then do step 3 below.</p>
+  <a class="btn primary" id="icloudLink" href="#">Get the Wallpaper Shortcut</a>
+</div>
+
+<h2>1 · Wallpaper link</h2>
+<div class="card">
+  <div class="row">
+    <div><label for="path">My path</label><select id="path">
+      <option value="twelve">12-step program</option><option value="recovery">General recovery</option>
+      <option value="mindful">Mindfulness / spiritual</option><option value="none">Just quotes</option></select></div>
+    <div id="stepBox"><label for="step">Current step</label><select id="step"></select></div>
+  </div>
+  <label for="every">Change it</label>
+  <select id="every"><option value="day">Once a day</option><option value="3h">Every 3 hours</option><option value="hour">Every hour</option></select>
+  <div class="prev" style="margin-top:1rem"><img id="img" alt="Today's Still Present wallpaper"><div>
+    <div class="k" style="margin-bottom:.3rem">Today's wallpaper</div>
+    <p class="m" style="margin:0 0 .8rem;font-size:.9rem">This is what the link gives right now. It changes by itself. Step content never goes past the chosen step.</p>
+  </div></div>
+  <div class="url" id="url"></div>
+  <button class="primary" id="copy">Copy the link</button>
+</div>
+
+<h2>2 · Build the Shortcut</h2>
+<div class="card"><ol class="steps">
+  <li>Open the <b>Shortcuts</b> app. Tap <span class="tag">+</span> (top right) to make a new shortcut.</li>
+  <li>Tap <span class="tag">Add Action</span>, search <b>Get Contents of URL</b>, and add it. Tap the blue <b>URL</b> placeholder and paste the link.</li>
+  <li>Search <b>Set Wallpaper Photo</b> (on older iOS: <b>Set Wallpaper</b>) and add it. It uses the image from the step before automatically.</li>
+  <li>In that action, choose <b>Lock Screen</b> only (on the home screen, app icons would cover the quote). Tap the small arrow <span class="tag">›</span> and turn <b>Show Preview</b> off (and <b>Crop to Subject</b> off, if it's there).</li>
+  <li>Tap the name at the top, call it <b>Wallpaper</b> (a neutral name keeps it private), then tap <b>Done</b>. Tap it once to try it. The first time, iPhone asks to allow access. Tap <b>Always Allow</b>.</li>
+</ol></div>
+
+<h2>3 · Make it automatic</h2>
+<div class="card"><ol class="steps">
+  <li>In Shortcuts, open the <b>Automation</b> tab. Tap <span class="tag">+</span> (or <b>New Automation</b>).</li>
+  <li>Choose <b>Time of Day</b>. Pick a time, e.g. <b>6:00 AM</b>, and <b>Daily</b>. Choose <b>Run Immediately</b> (not "Run After Confirmation") and turn off <b>Notify When Run</b> if preferred.</li>
+  <li>Tap <b>Next</b>, then pick the <b>Wallpaper</b> shortcut. Done.</li>
+  <li class="m">Chose "every hour" or "every 3 hours"? Add one more Time of Day automation for each time a change is wanted (e.g. 9 AM, 12 PM, 3 PM, 6 PM, 9 PM).</li>
+</ol>
+<p class="note">On iOS 27 the automation can also be created from inside the shortcut: open it, tap <b>ⓘ</b> › <b>Automation</b>. If a setting is called "Allow Running When Locked", turn it on.</p></div>
+
+<h2>Optional · Urge hours</h2>
+<div class="card">
+  <p style="margin-top:0" class="m">If certain hours are hardest, like late Friday night, Still Present has a stronger <b>Pause</b> wallpaper. Make a second shortcut the same way with this link, and give it a Time of Day automation at the start of the hard hours. The normal automation switches it back the next time it runs.</p>
+  <div class="url" id="urgeUrl"></div>
+  <button class="ghost" id="copyUrge">Copy urge-hours link</button>
+</div>
+
+<h2>Put Still Present on the home screen</h2>
+<div class="card"><ol class="steps">
+  <li>Open <b>present.sites.tab.bot</b> in <b>Safari</b>.</li>
+  <li>Tap <span class="tag">Share</span>, then <b>Add to Home Screen</b>.</li>
+  <li>Open it from the icon. Reflections, saved quotes and Urge Mode live there, on the phone only.</li>
+</ol>
+<a class="btn ghost" href="/">Open Still Present</a></div>
+
+<p class="note">Good to know: an iOS update can occasionally switch "Show Preview" back on or pause automations. If the wallpaper stops changing, open the shortcut once and check step 2.4.</p>
+<p class="foot">Still Present · No account. Nothing personal is sent or stored by this link.<br>In crisis? Call or text 988.</p>
+</main>
+<script>
+const ICLOUD = '' // paste the iCloud link of a shared "Wallpaper" shortcut here to show the one-tap button
+const $ = id => document.getElementById(id)
+const qs = new URLSearchParams(location.search)
+for (let i = 1; i <= 12; i++) $('step').add(new Option('Step ' + i, i))
+$('path').value = ['twelve','recovery','mindful','none'].includes(qs.get('path')) ? qs.get('path') : 'twelve'
+$('step').value = Math.min(12, Math.max(1, +qs.get('step') || 1))
+const tz = (Intl.DateTimeFormat().resolvedOptions().timeZone) || 'America/New_York'
+function build() {
+  $('stepBox').style.visibility = $('path').value === 'twelve' ? 'visible' : 'hidden'
+  const p = new URLSearchParams({ path: $('path').value }); if ($('path').value === 'twelve') p.set('step', $('step').value)
+  if ($('every').value !== 'day') p.set('every', $('every').value); p.set('tz', tz)
+  // v2.2: from the app's link, the main program's quote themes (~70%) and the highest step of other programs
+  if ($('path').value === 'twelve') { if (qs.get('mc')) p.set('mc', qs.get('mc')); if (+qs.get('ostep')) p.set('ostep', qs.get('ostep')) }
+  for (const k of ['pv', 'fam', 'nt', 'av']) if (qs.get(k)) p.set(k, qs.get(k))   // v3 neutral codes
+  const u = location.origin + '/api/wallpaper?' + p.toString()
+  $('url').textContent = u; $('img').src = u + '&_=' + Date.now()
+  $('urgeUrl').textContent = location.origin + '/api/wallpaper?mode=urge'
+}
+['path','step','every'].forEach(id => $(id).addEventListener('change', build)); build()
+function copy(text, btn) {
+  const done = () => { const t = btn.textContent; btn.textContent = 'Copied ✓'; setTimeout(() => btn.textContent = t, 1600) }
+  if (navigator.clipboard) navigator.clipboard.writeText(text).then(done, () => prompt('Copy this link:', text)); else prompt('Copy this link:', text)
+}
+$('copy').onclick = () => copy($('url').textContent, $('copy'))
+$('copyUrge').onclick = () => copy($('urgeUrl').textContent, $('copyUrge'))
+if (ICLOUD) { $('icloud').style.display = 'block'; $('icloudLink').href = ICLOUD }
+</script>
+</body></html>
