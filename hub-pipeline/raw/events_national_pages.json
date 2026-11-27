@@ -44,7 +44,7 @@
 "org": false
 },
 "https://www.eventbrite.com/e/breathwork-for-emotional-release-reiki-tickets-1994680370684": {
-"checked_at": "2026-11-10T22:04:18Z",
+"checked_at": "2026-11-27T16:37:03Z",
 "evidence_url": "https://www.eventbrite.com/e/breathwork-for-emotional-release-reiki-tickets-1994680370684",
 "startDate": "2026-11-07T19:00:00-08:00",
 "endDate": "2026-11-07T20:15:00-08:00",
@@ -54,7 +54,7 @@
 "org": false
 },
 "https://www.eventbrite.com/e/free-queer-candlelit-yoga-tickets-1982048390090": {
-"checked_at": "2026-11-10T22:04:18Z",
+"checked_at": "2026-11-27T16:37:04Z",
 "evidence_url": "https://www.eventbrite.com/e/free-queer-candlelit-yoga-tickets-1982048390090",
 "startDate": "2026-11-04T20:30:00-08:00",
 "endDate": "2026-11-04T21:30:00-08:00",
@@ -64,19 +64,17 @@
 "org": false
 },
 "https://www.eventbrite.com/e/novemberfest-3rd-annual-sober-drag-bingo-tickets-1994096285670": {
-"checked_at": "2026-11-10T22:04:18Z",
+"checked_at": "2026-11-27T16:37:04Z",
 "evidence_url": "https://www.eventbrite.com/e/novemberfest-3rd-annual-sober-drag-bingo-tickets-1994096285670",
 "startDate": "2026-11-14T18:00:00-08:00",
 "endDate": "2026-11-14T20:30:00-08:00",
-"price_lo": 0.0,
-"price_hi": 0.0,
 "quote": "Get ready to slay and play at NOVEMBERFEST: 3rd Annual Sober Drag Bingo!",
 "where": "event description",
 "match": "Sober",
 "org": false
 },
 "https://www.eventbrite.com/e/ecstatic-dance-tickets-2001673379963": {
-"checked_at": "2026-11-10T22:04:19Z",
+"checked_at": "2026-11-27T16:37:04Z",
 "evidence_url": "https://www.eventbrite.com/e/ecstatic-dance-tickets-2001673379963",
 "startDate": "2026-11-08T11:00:00-08:00",
 "endDate": "2026-11-08T13:00:00-08:00",
@@ -86,38 +84,34 @@
 "org": false
 },
 "https://www.eventbrite.com/e/drunk-theatre-la-wildest-improv-comedy-show-tickets-2003120314784": {
-"checked_at": "2026-11-10T22:04:18Z",
+"checked_at": "2026-11-27T16:37:04Z",
 "evidence_url": "https://www.eventbrite.com/e/drunk-theatre-la-wildest-improv-comedy-show-tickets-2003120314784",
 "startDate": "2026-11-13T21:00:00-08:00",
 "endDate": "2026-11-13T22:30:00-08:00",
-"price_lo": 0.0,
-"price_hi": 28.52,
 "quote": "A comedian takes five shots of whiskey in a row and tries to perform an improvised play with five sober comedians.",
 "where": "event description",
 "match": "sober",
 "org": false
 },
 "https://www.eventbrite.com/e/dance-yo-turkey-off-a-thanksgiving-night-ecstatic-dance-venice-tickets-2003375390723": {
-"checked_at": "2026-11-10T22:04:18Z",
+"checked_at": "2026-11-27T16:37:04Z",
 "evidence_url": "https://www.eventbrite.com/e/dance-yo-turkey-off-a-thanksgiving-night-ecstatic-dance-venice-tickets-2003375390723",
 "startDate": "2026-11-26T19:30:00-08:00",
 "endDate": "2026-11-26T23:00:00-08:00",
-"price_lo": 25.0,
-"price_hi": 45.0,
 "quote": "A sober, judgment-free Thanksgiving night ecstatic dance at Flow Life Sanc",
 "where": "event description",
 "match": "sober",
 "org": false
 },
 "https://www.eventbrite.com/e/queer-yoga-slow-flow-art-house-pasadena-tickets-1976758053551": {
-"checked_at": "2026-11-10T22:04:19Z",
+"checked_at": "2026-11-27T16:37:05Z",
 "evidence_url": "https://www.eventbrite.com/e/queer-yoga-slow-flow-art-house-pasadena-tickets-1976758053551",
 "startDate": "2026-11-08T13:00:00-08:00",
 "endDate": "2026-11-08T14:00:00-08:00",
 "none": true
 },
 "https://www.eventbrite.com/e/free-meetings-offer-support-for-food-addiction-tickets-1981623338750": {
-"checked_at": "2026-11-10T22:04:19Z",
+"checked_at": "2026-11-27T16:37:05Z",
 "evidence_url": "https://www.eventbrite.com/e/free-meetings-offer-support-for-food-addiction-tickets-1981623338750",
 "startDate": "2026-11-07T08:00:00-08:00",
 "endDate": "2026-11-07T09:30:00-08:00",
@@ -127,24 +121,14 @@
 "org": true
 },
 "https://www.eventbrite.com/e/addiction-recovery-support-weekly-sundays-7-tickets-2002932300428": {
-"checked_at": "2026-11-10T22:04:19Z",
-"evidence_url": "https://www.eventbrite.com/e/addiction-recovery-support-weekly-sundays-7-tickets-2002932300428",
-"startDate": "2027-01-03T00:00:00-08:00",
-"endDate": "2027-01-03T23:59:00-08:00",
-"price_lo": 0.0,
-"price_hi": 0.0,
-"quote": "Addiction Recovery Support (Weekly - Sundays @ 7)",
-"where": "event description",
-"match": "Addiction Recovery",
-"org": false
+"error": "<HTTPError 404: 'Not Found'>",
+"checked_at": "2026-11-27T16:37:05Z"
 },
 "https://www.eventbrite.com/e/42nd-overeaters-anonymous-mens-retreat-oceanside-ca-november-20-22-2026-tickets-1996181394286": {
-"checked_at": "2026-11-10T22:04:20Z",
+"checked_at": "2026-11-27T16:37:05Z",
 "evidence_url": "https://www.eventbrite.com/e/42nd-overeaters-anonymous-mens-retreat-oceanside-ca-november-20-22-2026-tickets-1996181394286",
 "startDate": "2026-11-20T19:00:00-08:00",
 "endDate": "2026-11-22T13:00:00-08:00",
-"price_lo": 0.0,
-"price_hi": 369.99,
 "quote": "Dozens of men have achieved food sobriety at this retreat.",
 "where": "event description",
 "match": "sobriety",
@@ -708,5 +692,122 @@
 "where": "event name",
 "match": "Food Addicts In Recovery Anonymous",
 "org": true
+},
+"https://www.eventbrite.com/e/new-years-eve-dance-presented-by-the-soho-group-nycypaa-tickets-2005111773290": {
+"checked_at": "2026-11-27T16:37:01Z",
+"evidence_url": "https://www.eventbrite.com/e/new-years-eve-dance-presented-by-the-soho-group-nycypaa-tickets-2005111773290",
+"startDate": "2026-12-31T20:30:00-05:00",
+"endDate": "2027-01-01T01:00:00-05:00",
+"price_lo": 23.18,
+"price_hi": 23.18,
+"quote": "Ring in 2027 sober with us at SoHo!",
+"where": "event description",
+"match": "sober",
+"org": false
+},
+"https://www.eventbrite.com/e/love-is-blindinspired-speed-dating-sober-singles-night-in-flatiron-tickets-2004833277301": {
+"checked_at": "2026-11-27T16:37:01Z",
+"evidence_url": "https://www.eventbrite.com/e/love-is-blindinspired-speed-dating-sober-singles-night-in-flatiron-tickets-2004833277301",
+"startDate": "2027-01-21T19:00:00-05:00",
+"endDate": "2027-01-21T21:00:00-05:00",
+"price_lo": 22.93,
+"price_hi": 22.93,
+"quote": "A sober, Love Is Blind-inspired singles night at The Maze in Flatiron.",
+"where": "event description",
+"match": "sober",
+"org": false
+},
+"https://www.eventbrite.com/e/naked-yoga-new-york-tickets-2004194551856": {
+"checked_at": "2026-11-27T16:37:01Z",
+"evidence_url": "https://www.eventbrite.com/e/naked-yoga-new-york-tickets-2004194551856",
+"startDate": "2026-11-28T12:00:00-05:00",
+"endDate": "2026-11-28T13:30:00-05:00",
+"price_lo": 23.18,
+"price_hi": 39.19,
+"none": true
+},
+"https://www.eventbrite.com/e/love-is-blind-singles-mixer-the-maze-sober-nyc-dating-event-tickets-2004833274292": {
+"checked_at": "2026-11-27T16:37:02Z",
+"evidence_url": "https://www.eventbrite.com/e/love-is-blind-singles-mixer-the-maze-sober-nyc-dating-event-tickets-2004833274292",
+"startDate": "2027-01-21T19:00:00-05:00",
+"endDate": "2027-01-21T21:00:00-05:00",
+"price_lo": 22.93,
+"price_hi": 22.93,
+"quote": "Chat first, see later: a Love Is Blind-style singles mixer at The Maze, NYC's alcohol-free social club in Flatiron.",
+"where": "event description",
+"match": "alcohol-free",
+"org": false
+},
+"https://www.eventbrite.com/e/blind-date-mixer-love-is-blindstyle-singles-night-the-maze-nyc-tickets-2004833276298": {
+"checked_at": "2026-11-27T16:37:02Z",
+"evidence_url": "https://www.eventbrite.com/e/blind-date-mixer-love-is-blindstyle-singles-night-the-maze-nyc-tickets-2004833276298",
+"startDate": "2027-01-21T19:00:00-05:00",
+"endDate": "2027-01-21T21:00:00-05:00",
+"price_lo": 22.93,
+"price_hi": 22.93,
+"quote": "A Love Is Blind-style blind date mixer for NYC singles at The Maze, an alcohol-free club in Flatiron.",
+"where": "event description",
+"match": "alcohol-free",
+"org": false
+},
+"https://www.eventbrite.com/e/love-is-blindstyle-speed-dating-the-maze-alcohol-free-nyc-singles-tickets-2004833278304": {
+"checked_at": "2026-11-27T16:37:02Z",
+"evidence_url": "https://www.eventbrite.com/e/love-is-blindstyle-speed-dating-the-maze-alcohol-free-nyc-singles-tickets-2004833278304",
+"startDate": "2027-01-21T19:00:00-05:00",
+"endDate": "2027-01-21T21:00:00-05:00",
+"price_lo": 22.93,
+"price_hi": 22.93,
+"quote": "Speed dating where personality comes first: blind chats via app, then a face-to-face mixer at The Maze, NYC's sober social club.",
+"where": "event description",
+"match": "sober",
+"org": false
+},
+"https://www.eventbrite.com/e/love-is-blindinspired-singles-mixer-the-maze-nyc-alcohol-free-tickets-2004833272286": {
+"checked_at": "2026-11-27T16:37:02Z",
+"evidence_url": "https://www.eventbrite.com/e/love-is-blindinspired-singles-mixer-the-maze-nyc-alcohol-free-tickets-2004833272286",
+"startDate": "2027-01-21T19:00:00-05:00",
+"endDate": "2027-01-21T21:00:00-05:00",
+"price_lo": 22.93,
+"price_hi": 22.93,
+"quote": "Meet NYC singles through conversation first at a Love Is Blind-inspired, alcohol-free mixer at The Maze in Flatiron.",
+"where": "event description",
+"match": "alcohol-free",
+"org": false
+},
+"https://www.eventbrite.com/e/yoga-for-addiction-recovery-and-overcoming-eating-disorders-tickets-1986226193011": {
+"checked_at": "2026-11-27T16:37:02Z",
+"evidence_url": "https://www.eventbrite.com/e/yoga-for-addiction-recovery-and-overcoming-eating-disorders-tickets-1986226193011",
+"startDate": "2026-12-02T11:00:00-05:00",
+"endDate": "2026-12-02T12:00:00-05:00",
+"price_lo": 0.0,
+"price_hi": 0.0,
+"quote": "Learn how yoga can aid in recovery from substance use and eating disorders.",
+"where": "event description",
+"match": "in recovery",
+"org": false
+},
+"https://www.eventbrite.com/e/jazz-jam-hosted-by-erli-perez-tickets-2004929190179": {
+"checked_at": "2026-11-27T16:37:03Z",
+"evidence_url": "https://www.eventbrite.com/e/jazz-jam-hosted-by-erli-perez-tickets-2004929190179",
+"startDate": "2026-12-06T17:00:00-05:00",
+"endDate": "2026-12-06T20:00:00-05:00",
+"price_lo": 15.0,
+"price_hi": 15.0,
+"quote": "Alcohol-free, in the East Village.",
+"where": "event description",
+"match": "Alcohol-free",
+"org": false
+},
+"https://www.eventbrite.com/e/thursday-sessions-at-no-more-cafe-tickets-2004929194191": {
+"checked_at": "2026-11-27T16:37:03Z",
+"evidence_url": "https://www.eventbrite.com/e/thursday-sessions-at-no-more-cafe-tickets-2004929194191",
+"startDate": "2026-12-17T20:00:00-05:00",
+"endDate": "2026-12-17T21:00:00-05:00",
+"price_lo": 15.0,
+"price_hi": 15.0,
+"quote": "An intimate night of live music, alcohol-free, in the East Village.",
+"where": "event description",
+"match": "alcohol-free",
+"org": false
 }
 }

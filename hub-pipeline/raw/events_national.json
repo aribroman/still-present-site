@@ -1,5 +1,5 @@
 {
-"fetched_at": "2026-11-27T16:34:08Z",
+"fetched_at": "2026-11-27T16:36:30Z",
 "sources": {
 "phoenix:nyc": {
 "n": 44,
@@ -47,8 +47,9 @@
 "error": null
 },
 "intergroup:atlantaaa.org": {
-"n": 1,
-"error": null
+"n": 0,
+"error": "JSONDecodeError('Expecting value: line 1 column 1 (char 0)')",
+"kept_previous": 1
 },
 "phoenix:phx": {
 "n": 22,
@@ -63,57 +64,58 @@
 "error": null
 },
 "eventbrite:nyc": {
-"n": 36,
-"error": null
+"n": 0,
+"error": "<HTTPError 405: 'Not Allowed'>",
+"kept_previous": 36
 },
 "eventbrite:la": {
-"n": 35,
-"error": "<HTTPError 429: 'Too Many Requests'>",
+"n": 0,
+"error": "<HTTPError 405: 'Not Allowed'>",
 "kept_previous": 58
 },
 "eventbrite:chi": {
 "n": 0,
-"error": "rate-limited (429), stopped",
+"error": "<HTTPError 405: 'Not Allowed'>",
 "kept_previous": 33
 },
 "eventbrite:dfw": {
 "n": 0,
-"error": "rate-limited (429), stopped",
+"error": "<HTTPError 405: 'Not Allowed'>",
 "kept_previous": 35
 },
 "eventbrite:hou": {
 "n": 0,
-"error": "rate-limited (429), stopped",
+"error": "<HTTPError 405: 'Not Allowed'>",
 "kept_previous": 26
 },
 "eventbrite:dc": {
 "n": 0,
-"error": "rate-limited (429), stopped",
+"error": "<HTTPError 405: 'Not Allowed'>",
 "kept_previous": 44
 },
 "eventbrite:phl": {
 "n": 0,
-"error": "rate-limited (429), stopped",
+"error": "<HTTPError 405: 'Not Allowed'>",
 "kept_previous": 36
 },
 "eventbrite:atl": {
 "n": 0,
-"error": "rate-limited (429), stopped",
+"error": "<HTTPError 405: 'Not Allowed'>",
 "kept_previous": 37
 },
 "eventbrite:phx": {
 "n": 0,
-"error": "rate-limited (429), stopped",
+"error": "<HTTPError 405: 'Not Allowed'>",
 "kept_previous": 36
 },
 "eventbrite:bos": {
 "n": 0,
-"error": "rate-limited (429), stopped",
+"error": "<HTTPError 405: 'Not Allowed'>",
 "kept_previous": 39
 },
 "eventbrite:mia": {
 "n": 0,
-"error": "rate-limited (429), stopped",
+"error": "<HTTPError 405: 'Not Allowed'>",
 "kept_previous": 67
 }
 },
@@ -14388,5 +14390,5 @@
 ],
 "phoenix_quote": "All we ask is that anyone who participates in Phoenix-led activities has been substance free for at least 48 hours.",
 "eventbrite_pages_read": 20,
-"seconds": 31.0
+"seconds": 34.7
 }
