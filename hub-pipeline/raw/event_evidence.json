@@ -6,7 +6,7 @@
 },
 "https://www.daniapointe.com/events": {
 "error": "<HTTPError 403: 'Forbidden'>",
-"checked_at": "2026-11-27T16:37:25Z"
+"checked_at": "2026-11-28T11:47:05Z"
 },
 "https://events.miamibeachfl.gov/event/miami-art-week-the-paddle-in-the-park-classic/": {
 "none": true,
@@ -819,5 +819,15 @@
 "none": true,
 "evidence_url": "https://www.northmiamifl.gov/calendar.aspx?EID=5950",
 "checked_at": "2026-11-27T16:33:38Z"
+},
+"https://www.eventbrite.com/e/vinyin-yoga-weekly-friday-mornings-flow-stretch-tickets-1996981596713": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/vinyin-yoga-weekly-friday-mornings-flow-stretch-tickets-1996981596713",
+"checked_at": "2026-11-28T11:47:05Z"
+},
+"https://www.eventbrite.com/e/meditation-series-tickets-1995618234861": {
+"none": true,
+"evidence_url": "https://www.eventbrite.com/e/meditation-series-tickets-1995618234861",
+"checked_at": "2026-11-28T11:47:08Z"
 }
 }
